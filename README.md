@@ -5,14 +5,15 @@ This Python program converts Mp4 to Gifs using Python, [Shotstack Python SDK](ht
 
 ### What is Shotstack API?
 
-Shotstack API is a cloud based video editing API that enables you to render multiple videos concurrently in the cloud
-using your favourite programming language. Sign up for a free developer account [here](https://dashboard.shotstack.io/register?utm_source=github&utm_campaign=sample_repos) to get your API key. 
+Shotstack API is a cloud based video editing API that enables you to render multiple videos concurrently using your
+choice of language. Sign up for a free developer account [here](https://dashboard.shotstack.io/register?
+utm_source=github&utm_campaign=sample_repos) to get your API key. 
 
 ### Why use Shotstack API?
 
 Rendering videos is a resource consuming process. It may take several minutes to render one video depending on the
-complexity of the video. Shotstack enables to concurrently render multiple videos in the powerful cloud infrastructure.
-This reduces rendering time and fastens the process. Visit our [Docs](https://shotstack.io/docs/guide/getting-started/core-concepts/?utm_source=github&utm_campaign=sample_repos) to learn more.
+complexity. Shotstack enables to concurrently render multiple videos in the powerful cloud infrastructure. This reduces
+rendering time and fastens the process. Visit our [Docs](https://shotstack.io/docs/guide/getting-started/core-concepts/?utm_source=github&utm_campaign=sample_repos) to learn more.
 
 Checkout other Python demo examples in this [Github repo](https://github.com/shotstack/python-demos).
 
@@ -52,39 +53,39 @@ set SHOTSTACK_KEY=your_key_here
 ```
 
 You can [get an API key](http://shotstack.io/register?utm_source=github&utm_campaign=sample_repos) by signing up for a
-free developer account via the Shotstack web site.
+free developer account.
 
 
 ### Running the program
 
-To run this program, run the `main.py` inside the root folder:
+To run this program, run the `mp4-to-gif.py` inside the root folder:
 
 ```bash
-python main.py
+python mp4-to-gif.py
 ```
 
-### Final video example
+### Final gif example
 
-[Here](https://cdn.shotstack.io/au/stage/c9npc4w5c4/a4199fa0-d65c-42f2-aa5c-c5722fb48886.mp4) is what the final video
+[Here](https://cdn.shotstack.io/au/stage/c9npc4w5c4/a4199fa0-d65c-42f2-aa5c-c5722fb48886.mp4) is what the final gif
 looks like.
 
-### Accessing rendered videos
+### Accessing rendered media files
 
-To access your rendered videos, sign into your Shotstack account. Inside the dashboard, you can find all rendered videos
+To access your rendered gifs, sign into your Shotstack account. Inside the dashboard, you can find all rendered media
 under Renders tab.
 
-![Alt Text](https://im5.ezgif.com/tmp/ezgif-5-9da1b35692.gif)
+![Alt Text](https://imgur.com/LXKp1wb)
 
 
 ### Edit and automate video production using Python
 
 This is just a basic example. You can do way more with Shotstack Python SDK like: 
 - Beautify videos by adding effects, transitions, overlays, titles
-- Automate video editing and production
-- Personalize videos with code
+- Automate media editing and production
+- Automatically generat personalized media with code
 - Convert media files i.e. gif, mp3, mp4, jpg, bmp, and png
-- Generate, add SRT files to multiple videos concurrently
-- Use AI to generate media assets to produce videos and
+- Generate and add SRT files to multiple videos concurrently
+- Use AI to generate media assets to produce videos and more
 
 See our other [tutorial articles](https://shotstack.io/learn/?utm_source=github&utm_campaign=sample_repos) to learn
 video editing using Python. 
