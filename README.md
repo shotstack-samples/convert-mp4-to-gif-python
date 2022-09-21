@@ -72,7 +72,7 @@ looks like.
 To access your rendered gifs, sign into your Shotstack account. Inside the dashboard, you can find all rendered media
 under Renders tab.
 
-![Alt Text](tps://media1.giphy.com/media/WtegSM0wYM8d8w7ajd/giphy.gif)
+![Alt Text](https://i.postimg.cc/8cCHTZ8V/2022-09-21-11-15-52-Shotstack-Dashboard.png)
 
 
 ### Edit and automate video production using Python
