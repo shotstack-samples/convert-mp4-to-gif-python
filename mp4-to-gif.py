@@ -28,7 +28,7 @@ if __name__ == "__main__":
         api_instance = edit_api.EditApi(api_client)
 
         video_asset = VideoAsset(
-            src = "https://i.imgflip.com/66o1m8.mp4"
+            src = "https://im4.ezgif.com/tmp/ezgif-4-2ea5b9eb46.mp4"
         )
 
         video_clip = Clip(

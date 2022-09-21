@@ -5,9 +5,7 @@ This Python program converts Mp4 to Gifs using Python, [Shotstack Python SDK](ht
 
 ### What is Shotstack API?
 
-Shotstack API is a cloud based video editing API that enables you to render multiple videos concurrently using your
-choice of language. Sign up for a free developer account [here](https://dashboard.shotstack.io/register?
-utm_source=github&utm_campaign=sample_repos) to get your API key. 
+Shotstack API is a cloud based video editing API that enables you to render multiple videos concurrently. See the available SDKs [here](https://shotstack.io/docs/guide/sdks).  Sign up for a free developer account [here](https://dashboard.shotstack.io/register?utm_source=github&utm_campaign=sample_repos) to get API key. 
 
 ### Why use Shotstack API?
 
