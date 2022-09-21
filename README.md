@@ -38,7 +38,7 @@ pip3 install -r requirements.txt
 
 ### Set your API key
 
-The demos use the **staging** endpoint by default so use your provided **staging** key:
+This program uses the **staging** endpoint by default so use your provided **staging** key:
 
 ```bash
 export SHOTSTACK_KEY=your_key_here
@@ -64,7 +64,7 @@ python mp4-to-gif.py
 
 ### Final gif example
 
-[Here](https://cdn.shotstack.io/au/stage/c9npc4w5c4/a4199fa0-d65c-42f2-aa5c-c5722fb48886.mp4) is what the final gif
+[Here](https://cdn.shotstack.io/au/stage/c9npc4w5c4/83576cf8-267b-4c87-a500-82f968e114fb.gif) is what the final gif
 looks like.
 
 ### Accessing rendered media files
@@ -72,7 +72,7 @@ looks like.
 To access your rendered gifs, sign into your Shotstack account. Inside the dashboard, you can find all rendered media
 under Renders tab.
 
-![Alt Text](https://imgur.com/LXKp1wb)
+![Alt Text](tps://media1.giphy.com/media/WtegSM0wYM8d8w7ajd/giphy.gif)
 
 
 ### Edit and automate video production using Python
